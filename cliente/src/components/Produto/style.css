@@ -1,0 +1,30 @@
+#box_produtos{
+  
+    display: flex;
+    flex-direction: column;
+
+    width: 220px;
+    height: auto;
+    font-size: 75%;
+   
+    
+    margin-left: 5%;
+    margin-bottom: 1%;
+    margin-top:1%;
+    justify-content: center;
+    align-items: center;
+    
+    border: solid 1px;
+    border-radius:15px;
+    background-color:#fff;
+    
+    
+}
+
+#box_produtos img{
+    width: 150px;
+}
+
+#box_produtos img:hover {
+    width:130px;
+}

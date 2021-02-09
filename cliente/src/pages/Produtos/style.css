@@ -1,0 +1,12 @@
+.pageProdutos{
+   display: flex!important;
+}
+.grid1{
+    margin-left: 1vh !important;
+    margin-top: 6vh !important;
+}
+.grid2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

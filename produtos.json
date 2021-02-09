@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "6021b1924fd413226c6c2856"
+  },
+  "categoria": "geladeira",
+  "descricao": "Geladeira Frost Free",
+  "preco": "4514,90",
+  "preco_venda": "3869,10",
+  "imagem": "./img/geladeira1.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6021b1bb4fd413226c6c2857"
+  },
+  "categoria": "geladeira",
+  "descricao": "Geladeira  Frost Free ",
+  "preco": "4514,90",
+  "preco_venda": "3869,10",
+  "imagem": "./img/geladeira2.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6021b1ca4fd413226c6c2858"
+  },
+  "categoria": "geladeira",
+  "descricao": "Geladeira  Frost Free ",
+  "preco": "4514,90",
+  "preco_venda": "3869,10",
+  "imagem": "./img/geladeira3.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6021b2174fd413226c6c2859"
+  },
+  "categoria": "fogao",
+  "descricao": "Fogao  Acendimento Automatico ",
+  "preco": "522,00",
+  "preco_venda": "419,00",
+  "imagem": "./img/fogao2.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6021b21c4fd413226c6c285a"
+  },
+  "categoria": "fogao",
+  "descricao": "Fogao  Acendimento Automatico ",
+  "preco": "522,00",
+  "preco_venda": "419,00",
+  "imagem": "./img/fogao1.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6021b2604fd413226c6c285b"
+  },
+  "categoria": "microondas",
+  "descricao": "Microondas  com Funcao Descongelar ",
+  "preco": "832,00",
+  "preco_venda": "619,00",
+  "imagem": "./img/microondas1.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6021b2644fd413226c6c285c"
+  },
+  "categoria": "microondas",
+  "descricao": "Microondas  com Funcao Descongelar ",
+  "preco": "832,00",
+  "preco_venda": "619,00",
+  "imagem": "./img/microondas2.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6021b2684fd413226c6c285d"
+  },
+  "categoria": "microondas",
+  "descricao": "Microondas  com Funcao Descongelar ",
+  "preco": "832,00",
+  "preco_venda": "619,00",
+  "imagem": "./img/microondas3.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6021b2af4fd413226c6c285e"
+  },
+  "categoria": "Lava-loucas",
+  "descricao": "Lava-Loucas  ",
+  "preco": "1970,00",
+  "preco_venda": "1749,00",
+  "imagem": "./img/lava_loucas1.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6021b2b24fd413226c6c285f"
+  },
+  "categoria": "Lava-loucas",
+  "descricao": "Lava-Loucas  ",
+  "preco": "1970,00",
+  "preco_venda": "1749,00",
+  "imagem": "./img/lava_loucas2.jpg",
+  "__v": 0
+}]

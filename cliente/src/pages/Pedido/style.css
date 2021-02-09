@@ -1,0 +1,25 @@
+.formulario{
+ display: flex;
+
+border: 1px solid;
+width: 65vh;
+border-radius: 10px;
+
+margin-left: 2vh;
+margin-top: 2vh;
+margin-bottom: 2vh;
+
+padding-bottom: 3vh;
+}
+
+.formulario label{
+    margin-left: -120px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    
+}
+
+.formulario input{
+    width: 50vh!important;
+    margin-left: 3vh;
+}
