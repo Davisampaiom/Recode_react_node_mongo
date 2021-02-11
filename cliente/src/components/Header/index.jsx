@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 
-import { Home, Pedido, Produtos } from "../../pages";
+import { Home, Contato, Produtos } from "../../pages";
 
 import "./style.css";
 
@@ -55,7 +55,7 @@ const Header = () => {
                     className="nav-link active"
                     aria-current="page"
                     as={Link}
-                    href="/pedido"
+                    href="/contato"
                   >
                     Contato
                   </a>
@@ -74,8 +74,8 @@ const Header = () => {
           <Route exact path="/produtos">
             <Produtos />
           </Route>
-          <Route exact path="/pedido">
-            <Pedido />
+          <Route exact path="/contato">
+            <Contato />
           </Route>
         </Switch>
       </Router>

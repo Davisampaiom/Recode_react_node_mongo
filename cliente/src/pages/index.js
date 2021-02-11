@@ -1,3 +1,3 @@
 export { default as Home } from './Home';
-export { default as Pedido } from './Pedido';
+export { default as Contato } from './Contato';
 export { default as Produtos } from './Produtos';

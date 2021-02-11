@@ -1,7 +1,11 @@
-import { useState, useEffect } from 'react';
-import { Categoria, Produto } from '../../components';
+import { useState, useEffect, lazy, Suspense } from 'react';
+import { Produto } from '../../components';
 
 import './style.css';
+
+
+ const Categoria = lazy(() => import('../../components/Categoria'))
+
 
 const Produtos = () => {
    
@@ -20,7 +24,10 @@ const Produtos = () => {
     return (
         <div className="pageProdutos">
          <div className="grid1">
+         <Suspense fallback={<p>Carregando...</p>}>
          <Categoria/>
+         </Suspense>
+
          </div>
          <div className="grid2">
          {produtos && produtos.map(item => <Produto key={item.id} imagem={item.imagem} descricao={item.descricao}
